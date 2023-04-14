@@ -14,4 +14,4 @@
 3. [K Nearest Neighbors](https://github.com/DanielYLim/Daniel_Portfolio/blob/main/K_Nearest_Neighbors/KNN.ipynb)
 
 
-4.[Random Forest on Titanic Dataset](https://github.com/DanielYLim/Daniel_Portfolio/blob/main/Random%20Forest/Random_Forest.ipynb)
+4. [Random Forest on Titanic Dataset](https://github.com/DanielYLim/Daniel_Portfolio/blob/main/Random%20Forest/Random_Forest.ipynb)
